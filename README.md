@@ -23,7 +23,8 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 💬 This is my blog page **I will leave the link later**
+- 💬 This is my blog page **I will leave the link later:
+- https://nguyenductuan404.github.io/React-Portfolio/**
 
 <br>
 <br>
